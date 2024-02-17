@@ -1,0 +1,10 @@
+.bg{
+    height: 100vh;
+    padding: 6px;
+}
+
+.center-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
